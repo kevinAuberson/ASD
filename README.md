@@ -1,5 +1,5 @@
 # ASD-22-23
-Algorithmie et structure de données
+Algorithmes et structures de données
 | Labos | Notes |
 | ---- | ---- |
 | Labo1-Complexité | 3.5 |
